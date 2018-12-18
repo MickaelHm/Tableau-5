@@ -16,7 +16,7 @@ namespace Tableau_5
                 Console.WriteLine(number);
             }
             numbers.Add(7);
-            numbers.Insert(0, 1);
+            numbers.Insert(0, 1); //Insert sert à placer le chiffre à l'endroit voulu dans la liste (endroit voulu, chiffre voulu) > (0,1)
             foreach (int number in numbers)
             {
                 Console.WriteLine(number);
