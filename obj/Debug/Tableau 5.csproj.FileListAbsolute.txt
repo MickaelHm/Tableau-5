@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\obj\Debug\Tableau 5.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\obj\Debug\Tableau 5.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\bin\Debug\Tableau 5.exe.config
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\bin\Debug\Tableau 5.exe
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\bin\Debug\Tableau 5.pdb
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\obj\Debug\Tableau 5.exe
+C:\Users\Moi\source\repos\Tableau 5\Tableau 5\obj\Debug\Tableau 5.pdb
